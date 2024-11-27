@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\block\Desktop\2 курс мага\методы литвинов 3 семак\opencvplusplus\lab2\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\block\Desktop\2 курс мага\методы литвинов 3 семак\opencvplusplus\lab2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B6E7C09F-BCC8-3615-A47D-7660677594BE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

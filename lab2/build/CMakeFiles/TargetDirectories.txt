@@ -1,0 +1,3 @@
+C:/Users/block/Desktop/2 курс мага/методы литвинов 3 семак/opencvplusplus/lab2/build/CMakeFiles/lab2.dir
+C:/Users/block/Desktop/2 курс мага/методы литвинов 3 семак/opencvplusplus/lab2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/block/Desktop/2 курс мага/методы литвинов 3 семак/opencvplusplus/lab2/build/CMakeFiles/ZERO_CHECK.dir

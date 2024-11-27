@@ -1,0 +1,10 @@
+^C:\USERS\BLOCK\DESKTOP\2 КУРС МАГА\МЕТОДЫ ЛИТВИНОВ 3 СЕМАК\OPENCVPLUSPLUS\LAB2\BUILD\CMAKEFILES\FB1E1D9533782C1A2E62591BCD122B0F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/block/Desktop/2 курс мага/методы литвинов 3 семак/opencvplusplus/lab2" "-BC:/Users/block/Desktop/2 курс мага/методы литвинов 3 семак/opencvplusplus/lab2/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/block/Desktop/2 курс мага/методы литвинов 3 семак/opencvplusplus/lab2/build/lab2.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
